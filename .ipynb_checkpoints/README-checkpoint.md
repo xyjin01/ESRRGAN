@@ -1,0 +1,1 @@
+This is an improved version of ESRGAN by using Realistic GAN.
